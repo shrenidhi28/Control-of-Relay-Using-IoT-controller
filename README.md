@@ -1,4 +1,8 @@
-# Control-of-Relay-Using-IoT-controller
+#### NAME: C.SHRENIDHI
+#### REGISTER NUMBER: 212223040196
+
+
+# Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
