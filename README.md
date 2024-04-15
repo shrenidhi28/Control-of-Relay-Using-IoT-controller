@@ -67,9 +67,18 @@ void loop() {</br>
 }</br>
 
 
+##  CIRCUIT DIAGRAM
+<img src="https://github.com/shrenidhi28/Control-of-Relay-Using-IoT-controller/assets/155261096/79142848-3749-4580-84e4-ba3d536eb7da" width=500 height=500>
+
+
 
 ## OUTPUT:
-<img width="470" alt="image" src="https://github.com/shrenidhi28/Control-of-Relay-Using-IoT-controller/assets/155261096/cfb18f72-6746-4886-ab10-e58207ed6e9a">
+OFF <br>
+
+<img src="https://github.com/shrenidhi28/Control-of-Relay-Using-IoT-controller/assets/155261096/8e468471-66d2-4b23-9ea4-9d0810ea20b0)" width=500 height=500>
+
+ON <br>
+<img src="https://github.com/shrenidhi28/Control-of-Relay-Using-IoT-controller/assets/155261096/7520c990-f347-48b1-b7a3-70966d46eb0a" width=500 height=500>
 
 
 ## RESULT:
